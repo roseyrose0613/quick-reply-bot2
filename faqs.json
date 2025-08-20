@@ -1,0 +1,135 @@
+[
+  {
+    "id": "recharge_issues",
+    "question": "Recharging and material issues",
+    "keywords": ["充值", "材料丢失", "topup", "diamonds", "未到账"],
+    "answer": "Hello, please first confirm whether the recharge transaction was successfully deducted. If the deduction has been made but the funds have not been credited, or if there are missing or consumed materials, please submit a customer service complaint form through the game's [Settings] - [Customer Service] menu. Our customer service team will process your request as soon as possible.",
+    "source": "CS Standard Reply"
+  },
+  {
+    "id": "game_stuck",
+    "question": "Game Stuck/Unable to play",
+    "keywords": ["卡住", "卡关", "无法进入", "stuck", "lag"],
+    "answer": "Hello, please try restarting the game first to see if it returns to normal. Click Repair in the upper right corner of the login page and then enter the game.\\n\\nSituation 1: If it only happens occasionally, it may be due to network latency or abnormal resource loading. Restarting the game usually solves the problem.\\n\\nSituation 2: If it happens frequently, please let us know what type of device you are using (Android/iOS/PC/mobile phone, etc.) so that we can troubleshoot the problem.",
+    "source": "CS Standard Reply"
+  },
+  {
+    "id": "download_error",
+    "question": "Download Error",
+    "keywords": ["下载失败", "无法进入首页", "download", "vpn"],
+    "answer": "If the problem persists, consult with the other party in their region and recommend that they try using a VPN. We recommend a regional node close to your server or a US Hong Kong node.",
+    "source": "CS Standard Reply"
+  },
+  {
+    "id": "localization_error",
+    "question": "Localization Error",
+    "keywords": ["翻译错误", "中文出现", "文本溢出", "localization", "translation"],
+    "answer": "Hello, please provide a full screenshot of the game screen and tell us your language version, server, platform, and device model. We will feedback to the relevant team to fix it as soon as possible.",
+    "source": "CS Standard Reply"
+  },
+  {
+    "id": "blocked_words",
+    "question": "Blocked words issue",
+    "keywords": ["屏蔽词", "敏感词", "不能输入"],
+    "answer": "Thank you for your feedback. We are continuously optimizing our keyword filtering system. Please be patient. Your suggestions are very important to us. Thank you for your understanding and support.",
+    "source": "CS Standard Reply"
+  },
+  {
+    "id": "no_issue",
+    "question": "No actual issues (misunderstandings, etc.)",
+    "keywords": ["误解", "误会", "suggestion"],
+    "answer": "Hello, thank you for your feedback. We will continue to follow up on this matter. If you have any other questions, please feel free to contact us at any time.\\n(Direct players to the channel or webpage where their questions will be answered.)",
+    "source": "CS Standard Reply"
+  },
+  {
+    "id": "account_bind",
+    "question": "Account Security - Account bind/unbind",
+    "keywords": ["绑定", "解绑", "account", "bind"],
+    "answer": "Hello, please go to our website at setting - user center, then click on account security to bind or unbind your account.\\n\\nIf you are unable to do so or the operation fails, please provide your account and the bound account ID, and we will help you with the operation (if all else fails).",
+    "source": "CS Standard Reply"
+  },
+  {
+    "id": "account_hacked",
+    "question": "Account Security - Hacked/Stolen",
+    "keywords": ["盗号", "被偷", "hacked", "stolen"],
+    "answer": "Hello, if your account was hacked or stolen, please submit an in-game customer service ticket immediately with full details (character ID, server, last login time, and any screenshots if possible). Our team will investigate as soon as possible.",
+    "source": "CS Standard Reply"
+  },
+  {
+    "id": "rng_complaint",
+    "question": "RNG Anger",
+    "keywords": ["抽卡", "概率", "rng", "odds"],
+    "answer": "Hello, thank you for your support of the game. The odds for all events can be viewed by clicking on the small question mark. Good luck!",
+    "source": "CS Standard Reply"
+  },
+  {
+    "id": "rank_abnormal",
+    "question": "Rank/Score Abnormal",
+    "keywords": ["排行错误", "rank wrong", "score wrong"],
+    "answer": "Hello, there may be delays in the ranking and points system during settlement. Please wait patiently for the refresh. If there is no update for a long time, please provide a screenshot and server information, and we will forward it to the relevant team.",
+    "source": "CS Standard Reply"
+  },
+  {
+    "id": "community_event",
+    "question": "Community Event",
+    "keywords": ["视频比赛", "奖励发放", "community event"],
+    "answer": "For inquiries regarding the details of the video contest and the awarding of prizes, please contact us.",
+    "source": "CS Standard Reply"
+  },
+  {
+    "id": "playmode_bug",
+    "question": "Playmode Bug",
+    "keywords": ["副本", "技能", "装备", "home", "guild", "features", "rewards"],
+    "answer": "If you encounter bugs related to Email, skills, equipment, dungeons, home, guild, features, or rewards, please provide a detailed description and screenshots if possible. We will forward this to the relevant development team.",
+    "source": "CS Standard Reply"
+  },
+  {
+    "id": "bgm_bug",
+    "question": "BGM/Music Effect Bug",
+    "keywords": ["无声", "声音异常", "music", "sound"],
+    "answer": "Hello, please first check the device volume and in-game sound settings. If the settings are normal but the problem persists, please provide the device model and system version, and we will forward the information to our technical team.",
+    "source": "CS Standard Reply"
+  },
+  {
+    "id": "new_server",
+    "question": "New Server Consultation",
+    "keywords": ["新区", "new server"],
+    "answer": "Hello, the server will be adjusted in real time based on the number of active users and registered users. We do not have a fixed schedule, so please pay attention on the registration page for any new servers that may appear. Thank you very much for your notice.",
+    "source": "CS Standard Reply"
+  },
+  {
+    "id": "quick_pay",
+    "question": "Quick Pay not displayed",
+    "keywords": ["quick pay", "支付", "充值选项"],
+    "answer": "Thank you for reaching out, due to platform limitations, some accounts on certain devices might not have the quickpay option shown. If you would like to join, please download the official PC client to participate.",
+    "source": "CS Standard Reply"
+  },
+  {
+    "id": "emotional",
+    "question": "Emotionally charged issues",
+    "keywords": ["愤怒", "抱怨", "angry"],
+    "answer": "Thank you very much for your interest in and appreciation of our game first. We have received your feedback and fully get your comments. We will always listen to all player truly feedback and continuously improve to make the game better. Thank you for your suggestions again.",
+    "source": "CS Standard Reply"
+  },
+  {
+    "id": "good_suggestion",
+    "question": "Good/Useful Suggestions and Advice",
+    "keywords": ["好建议", "useful advice"],
+    "answer": "Thank you so much for your feedback. We really appreciate you taking the time to share it with us. We'll tell your advice to our admin and logs so the team can take a closer look and consider it for future improvements.",
+    "source": "CS Standard Reply"
+  },
+  {
+    "id": "report_player",
+    "question": "Report Other Players",
+    "keywords": ["举报", "report", "harassment", "不当行为"],
+    "answer": "1. Discord: Thank you for your feedback. We will verify the situation and take the necessary measures.\\n\\n2. In Game: Thank you for your feedback. Please click on the player's avatar in the game, report the issue, and select evidence. If you have any other questions, please contact customer service directly in the game.",
+    "source": "CS Standard Reply"
+  },
+  {
+    "id": "others",
+    "question": "Others",
+    "keywords": ["其他", "other issues"],
+    "answer": "Other issues that are not recorded but can be resolved by the mod, such as game recharge event dates, level caps, or various gameplay features. - Please advise accordingly.",
+    "source": "CS Standard Reply"
+  }
+]
